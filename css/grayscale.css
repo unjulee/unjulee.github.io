@@ -46,7 +46,7 @@ a {
   margin-bottom: 0;
   text-transform: uppercase;
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-  background-color: black; }
+  background-color: white; }
   #mainNav .navbar-toggler {
     font-size: 14px;
     padding: 11px;
@@ -96,7 +96,7 @@ a {
   text-align: center;
   color: white;
   background: url("../img/cover.jpg") no-repeat bottom center scroll;
-  background-color: black;
+  background-color: white;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
