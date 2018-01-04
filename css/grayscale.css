@@ -145,7 +145,7 @@ a {
   padding-bottom: 150px; }
 
 .work-section {
-  color: white;
+  color: white; 
   background: url("../img/long1.jpg") no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
